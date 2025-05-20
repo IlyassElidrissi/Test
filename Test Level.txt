@@ -1,0 +1,24 @@
+Web Development Basics:
+
+        1- Web development is the process of creating, building, and maintaining websites and web apps so they work smoothly in your browser
+
+HTML Knowledge:
+
+        2- is the standard markup language used to structure and design web pages
+
+CSS Understanding:
+ 
+        3- is a fundamental technology in web development that enhances the presentation and layout of web pages
+
+Introduction to JavaScript:
+
+        4- JavaScript is a high-level, interpreted programming language primarily used to create interactive effects within web browsers
+
+React and Node.js Awareness
+
+        5- React and NodeJs are the two popular front-end Javascript libraries that engage in creating user-centric web applications.
+
+Learning Intentions:
+
+        6- I want to learn developement web to develop my career and my skills as I'm an it manager in one of the most famous chains of fast food and I want  
+           to create and develop some software and or web apps that should simplify our daily basis
